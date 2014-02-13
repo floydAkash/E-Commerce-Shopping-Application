@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<products>
+
+<product name="Iphone 16 GB">
+	<description>A remarkably slim design that still makes room for a larger display and a faster chip. Ultrafast wireless that does not sacrifice battery life. &#xD;
+	fit comfortably. So much went into this iPhone. So you could get even more out of it.</description>
+	<price>740.99</price>
+	<quantity>10</quantity>
+	<image_name>Bubblegum_2012-03-26_03-18-54.jpg</image_name>
+	<sale_price>8</sale_price>
+</product>
+
+<product name="Samsung Galaxy SIII">
+	<description>
+	The Samsung Galaxy S III is now easier, faster and even more beautiful than before. Experience the innovative features of Android 4.1, Jelly Bean. 
+	With new ways to share stories and discover music; camera enhancements for more creative photos; TecTile technology 
+	that adds a new level of functionality; and much more.
+	</description>
+	<price>584.99</price>
+	<quantity>9</quantity>
+	<image_name>galaxy3.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Nokia Lumia 920">
+	<description>4G LTE Nokia Lumia 920 with Windows Phone 8 was built for amazing clarity, power and speed that lets you capture, share and relive moments as if you were still there. &#xD;
+	You will enjoy a rich user-experience in almost any conditions with the stunning 4.5-inch PureMotion HD.</description>
+	<price>627.00</price>
+	<quantity>10</quantity>
+	<image_name>Bubblegum_2012-03-26_03-18-54.jpg</image_name>
+	<sale_price>5</sale_price>
+</product>
+
+<product name="Windows Phone 8X HTC">
+	<description>Honey Boo Bpo</description>
+	<price>499.99</price>
+	<quantity>3</quantity>
+	<image_name>Bubblegum_2012-03-26_03-18-54.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Iphone 5 64GB">
+	<description>A remarkably slim design that still makes room for a larger display and a faster chip. Ultrafast wireless that does not &#xD;
+comfortably. So much went into this iPhone. So you could get even more out of it.</description>
+	<price>1000</price>
+	<quantity>10</quantity>
+	<image_name>Bubblegum_2012-03-26_03-18-54.jpg</image_name>
+	<sale_price>23</sale_price>
+</product>
+
+<product name="Droid DNA by HTC">
+	<description>
+	DROID DNA by HTC impresses with an industry-leading, 5-inch, 1080p full-HD display: one of the first smartphones to feature a 1080p display. 
+	The amazing front and rear cameras capture every moment and the Snapdragon quad-core processor offers tremendously fast performance.
+	</description>
+	<price>500.00</price>
+	<quantity>12</quantity>
+	<image_name>droid.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Samsung Galaxy Note II">
+	<description>
+	Looking for the smartphone that can do it all? The Galaxy Note II is a powerhouse of productivity. 
+	The S Pen brings the simplicity of pen and paper to innovative mobile technology, 
+	plus the ability to perform multiple tasks at once. Quickly create and edit documents, and navigate with the precision of a mouse.
+	</description>
+	<price>674.99</price>
+	<quantity>5</quantity>
+	<image_name>note2.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Galaxy Nexus">
+	<description>
+	The Galaxy Nexus comes with Google Wallet, turning your phone into a virtual wallet to pay for purchases using NFC. 
+	Google Wallet works with Citi Mastercard to pay for your purchase at any store with a MasterCard PayPass kiosk.
+	</description>
+	<price>382.99</price>
+	<quantity>3</quantity>
+	<image_name>nexus.jpg</image_name>
+	<sale_price>300</sale_price>
+</product>
+
+<product name="Blackberry Bold 9900">
+	<description>
+	Create and connect like never before, swiping, pinching and zooming on the Liquid Graphics touch screen. 
+	Together with a 1.2 GHz processor, and a 24-bit high-res display, Liquid Graphics gives you fluid animations and instant response times.
+	</description>
+	<price>399.99</price>
+	<quantity>10</quantity>
+	<image_name>bold9900.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Blackberry Torch 9850">
+	<description>
+	Powered by the new BlackBerry 7 OS and Liquid Graphics, 
+	your photos, videos, games and apps come to life in incredible detail on the large screen.
+	</description>
+	<price>241.19</price>
+	<quantity>4</quantity>
+	<image_name>torch9850.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Blackberry Curve 9310">
+	<description>
+	Get connected in an instant with the dedicated BBM shortcut key on the BlackBerry Curve 9310 smartphone. 
+	One touch launches the BBM app so you can chat in real time or share pictures, videos and files. 
+	Plan a night out with a group message, or chat privately one-to-one.
+	</description>
+	<price>213.19</price>
+	<quantity>56</quantity>
+	<image_name>curve.jpg</image_name>
+	<sale_price>200</sale_price>
+</product>
+
+<product name="Porsche Design P9981">
+	<description>
+	The instantly identifiable Porsche Design ID includes a premium forged stainless steel frame, rich, 
+	genuine leather backing, wide iconic BlackBerry QWERTY keyboard and large, luxurious full-touch screen.
+	</description>
+	<price>2075.00</price>
+	<quantity>8</quantity>
+	<image_name>porsche.jpg</image_name>
+	<sale_price>1675.00</sale_price>
+</product>
+
+<product name="Google Nexus 4">
+	<description>
+	Nexus 4 is the new smartphone from Google. With cutting edge hardware, the latest version of Android, 
+	and the best Google apps -- Nexus 4 puts the information at your fingertips.
+	</description>
+	<price>349.00</price>
+	<quantity>3</quantity>
+	<image_name>nexus4.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Samsung Galaxy Note">
+	<description>
+	The Galaxy Note is as convenient to carry as a phone, but comes with all the power of a tablet. Sketch in the park, make annotations on a plane, upload documents, 
+	play movies and games with ease using the dual- core processor. The power will always be with you.
+	</description>
+	<price>499.99</price>
+	<quantity>9</quantity>
+	<image_name>note1.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="Samsung Galaxy SII">
+	<description>
+	The Samsung Galaxy S II raises the bar on picture quality with the 4.52" Super AMOLED Plus Display. Colors are deep and vivid. Detail is razor sharp. 
+	It's also energy efficient to prolong battery life. 
+	Not only is the color hard to believe, but so is the slender 9.59mm thickness and 4.55 ounce weight.
+	</description>
+	<price>439.00</price>
+	<quantity>1</quantity>
+	<image_name>galaxy2.jpg</image_name>
+	<sale_price>0</sale_price>
+</product>
+
+<product name="dsds"><description>dsdsds</description><price>444</price><quantity>5</quantity><image_name>13112010632.jpg</image_name><sale_price>6</sale_price></product><product name="ererrere"><description>dsds</description><price>45</price><quantity>23</quantity><image_name>07112010629.jpg</image_name><sale_price>5</sale_price></product><product name="Robb"><description>Krasnow</description><price>55</price><quantity>4</quantity><image_name>bold9900.jpg</image_name><sale_price>45</sale_price></product></products>

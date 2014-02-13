@@ -1,0 +1,186 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+background: white;
+position:relative;
+margin-left:5%;
+margin-right:5%;
+}
+
+.banner{
+float:left;
+
+border: 1px solid black;
+position: relative;
+width: 1000px;
+}
+#leftLink a{
+float:left;
+text-decoration:none;
+}
+#rightLink a{
+float:right;
+text-decoration:none;
+}
+
+#leftLink a:active, #leftLink a:visited, #leftLink a:link{
+color:red;
+} 
+
+
+#rightLink a:active, #rightLink a:visited, #rightLink a:link{
+color:red;
+} 
+
+#right{
+color:grey;
+float:left;
+}
+
+.container{
+    background-color:white;
+    margin:auto;
+    width:1000px;
+    margin-top:20px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-top:0px;
+    padding-bottom:50px;
+    -webkit-box-shadow: 2px 2px 19px rgba(41, 68, 50, 0.92);
+    -moz-box-shadow:    2px 2px 19px rgba(41, 68, 50, 0.92);
+    box-shadow:         2px 2px 19px rgba(41, 68, 50, 0.92);
+}
+
+.content{
+	clear:both;
+	position:relative;
+	font-family: "Lucida Sans Unicode";
+    font-size:12pt;
+    padding-top:25px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top:-1px;
+	line-height:1.5em;
+}
+
+.message{
+	color: red;
+	font-size: 2em;
+	position:relative;
+	line-height: 1em;
+		
+}
+
+.admin{
+color:red;
+}
+
+.edit{
+border-style:solid;
+border-width:1px;
+}
+
+#dropdown{
+text-align:center;
+}
+
+#sel{
+float:right;
+}
+
+#footer_message{
+	font-family:"Trebuchet MS",Tahoma,sans-serif;
+	color: white;
+	font-size:normal;
+	line-height: 1em;
+	position:relative;
+	}
+
+.heading {
+		color: red;
+		font-size: 2em;
+		margin-top: 1em;
+		}
+.img{
+float:left;
+margin-right: 1em;
+margin-left: 0;
+margin-top: 0;
+margin-bottom: 1em;
+}
+
+#nav ul li {
+						background-color: gray;
+                        border: 1px double;
+                        list-style:none;
+						margin:0;
+						padding:0;
+                        float:left;
+						width: 164.56px;
+                        text-align:center;
+                        
+		}
+		#nav  ul{
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+                #nav ul li a{
+                    font-size: 12pt;
+					height:18px;
+                    font-family: "Lucida Sans Unicode";
+                    text-decoration:none;
+                    color:white;
+					white-space:nowrap; 
+                			margin:0px;
+                        border: 1px ;
+		margin:10px;
+				}
+                
+				#nav ul li a:hover,
+				#nav ul li a.active,
+				#nav ul li a.active:hover {
+				color:#000;
+				background:#fff;
+				}
+				
+                #nav ul li a:active{
+				background-color:green;
+
+                }
+                #nav ul li a:visited{
+                    background-color:red;	
+					}
+					
+#user_info{
+background-color: gray;
+min-width: 1000px;
+
+margin:auto;
+    width:792px;
+    margin-top:20px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:3px;
+    padding-bottom:30px;
+	}
+	
+	@media screen and (max-device-width: 480px){
+  *{
+    float:none;
+   }
+ 
+ html, body{
+ background: white;
+ }
+ img{
+ display:none;
+ }
+ 
+ }
+
+
+	
